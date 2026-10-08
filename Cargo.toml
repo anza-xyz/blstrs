@@ -1,11 +1,11 @@
 [package]
-name = "blstrs"
+name = "anza-blstrs"
 description = "High performance implementation of BLS12 381"
 version = "0.7.1"
 authors = ["dignifiedquire <me@dignifiedquire.com>"]
 edition = "2018"
 license = "MIT/Apache-2.0"
-repository = "https://github.com/filecoin-project/blstrs"
+repository = "https://github.com/anza-xyz/blstrs"
 documentation = "https://docs.rs/blstrs"
 categories = ["cryptography", "algorithms"]
 readme = "README.md"
